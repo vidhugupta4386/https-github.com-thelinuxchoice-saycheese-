@@ -13,6 +13,10 @@ To convince the target to grant permissions to access the cam, the page uses a j
 # Installing (Kali Linux/Termux):
 
 git clone https://github.com/thelinuxchoice/saycheese
+
 cd saycheese
+
 bash saycheese
+
+
 
